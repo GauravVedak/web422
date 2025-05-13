@@ -1,3 +1,17 @@
+/********************************************************************************
+* WEB422 – Assignment 1
+*
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+*
+* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+*
+* Name: Gaurav Amol Vedak Student ID: 140524232 Date: May 12, 2025
+*
+* Published URL: web422-navy.vercel.app
+*
+********************************************************************************/
+
 const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
